@@ -1,15 +1,16 @@
 # Abaqus-To-OpenSeesPy-Section
 # Abaqus截面转OpenSeesPy截面工具
 
-* ### 软件界面
-<div align=center>
-* V1.0 *
+* ## 软件界面
+
+<div>
 <img width=1200 src="https://user-images.githubusercontent.com/98397090/226817442-62b9df15-6cec-4763-ab3e-71cbcf62f6e7.png"> 
-<img width=1200 src="https://user-images.githubusercontent.com/98397090/228247150-0aef816b-88ac-4f61-b4f0-1bb319388bcd.png">
-<img width=1200 src="https://user-images.githubusercontent.com/98397090/228247626-2e044a58-3267-4ec3-b0a2-98a10d65de0d.png">
-V1.1
 </div>
 
+<div>
+<img width=1200 src="https://user-images.githubusercontent.com/98397090/228247150-0aef816b-88ac-4f61-b4f0-1bb319388bcd.png">
+<img width=1200 src="https://user-images.githubusercontent.com/98397090/228247626-2e044a58-3267-4ec3-b0a2-98a10d65de0d.png">
+</div>
 ---------------------------------------------------------------------------------------------------------------------
 
 * ### Abaqus建模注意事项【重要!!!】
