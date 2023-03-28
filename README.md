@@ -3,7 +3,8 @@
 
 * ### 软件界面
 <div align=center>
-<img width=1200 src="https://user-images.githubusercontent.com/98397090/226817442-62b9df15-6cec-4763-ab3e-71cbcf62f6e7.png">  
+<img width=1200 src="https://user-images.githubusercontent.com/98397090/226817442-62b9df15-6cec-4763-ab3e-71cbcf62f6e7.png"> 
+<img width=1200 src="https://user-images.githubusercontent.com/98397090/228247150-0aef816b-88ac-4f61-b4f0-1bb319388bcd.png">
 </div>
 
 ---------------------------------------------------------------------------------------------------------------------
