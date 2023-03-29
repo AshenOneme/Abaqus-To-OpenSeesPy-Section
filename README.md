@@ -58,7 +58,7 @@
 <details>
 <summary> inp1文件转OpenSeesPy纤维截面代码【点击展开】 </summary>
 <pre><code>
-# Eidted by Ashen!
+# Edited by Ashen!
 #            _____                    _____                    _____                    _____                    _____           
 #           /\    \                  /\    \                  /\    \                  /\    \                  /\    \          
 #          /::\    \                /::\    \                /::\____\                /::\    \                /::\____\         
