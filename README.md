@@ -8,7 +8,7 @@
   </tr>
   <tr>
     <td>
-    <div align=center>(a) V1.0</div>
+    <div align=center>(a) V1.0 初始版本</div>
     </td>
   </tr>
   <tr>
@@ -19,9 +19,19 @@
   <tr>
   <tr>
     <td>
-    <div align=center>(b) V1.1</div>
+    <div align=center>(b) V1.1 增加了材料赋予以及纤维实时选择功能</div>
     </td>
   </tr>
+  
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/98397090/228445138-b2e67950-a054-465c-bbfe-8f2bed789bdd.png"/></td>
+  </tr>
+  <tr>
+    <td>
+    <div align=center>(c) V1.2 增加了Tcl版本OpenSees截面导出功能</div>
+    </td>
+  </tr>
+
 </table>
 
 ---------------------------------------------------------------------------------------------------------------------
